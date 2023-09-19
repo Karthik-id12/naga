@@ -1,6 +1,6 @@
  <html>
    <body>
-     <h1> This is GPt</h1>
-     <p>This is CS</p>
+     <h1> This is Ballari</h1>
+     <p>This is GPT</p>
    </body>
  </html>
